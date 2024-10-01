@@ -1,0 +1,7 @@
+reflink: https://www.youtube.com/watch?v=WQvinJGYk90
+refgitlink: https://github.com/tonykipkemboi/groq_streamlit_demo?tab=readme-ov-file
+
+
+Note:
+1. create virtual environment
+2. install streanlit
